@@ -8,3 +8,4 @@ RUN WITH THIS COMMAND
  cd J.A.R.V.I.S_AI.KALI_TERMINAL                                                                                                                 
  Jarvis                                                                                                                                                          
  python3 app.py.txt
+<img width="1339" height="628" alt="image" src="https://github.com/user-attachments/assets/e701ef2e-f2b5-43b9-83aa-ec04493af719" />
